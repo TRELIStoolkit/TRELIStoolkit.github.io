@@ -5,5 +5,5 @@ google_analytics:
 theme: jekyll-theme-slate
 
 header_pages:
- - index.md
+ #- index.md
  - another-page.md
