@@ -4,6 +4,6 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
 
-#header_pages:
-# - index.md
-# - another-page.md
+header_pages:
+ - index.md
+ - another-page.md
