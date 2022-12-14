@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Growing the TRELIS family
-Through the Carolyn Merry mini-grants, the ladies of TRELIS have built-upon and expanded the TRELIS mission.
+Funded by Carolyn Merry mini-grants, TRELIS fellows have built-upon and expanded the TRELIS mission. The mini-grant program is named after [Dr. Carolyn Merry](https://landsat.gsfc.nasa.gov/article/remembering-carolyn-merry/) in honor of her mentoring of women and junior scholars. Dr. Merry was a professor emerita of Civil, Environmental and Geodetic Engineering at The Ohio State University and former President of UCGIS.
 
 ### GIS Connect
  [GIS Connect](https://gisconnect.github.io/) is a video series used to highlight and recognize the contributions of female thought leaders and role models in GIScience. The goal was to connect younger generations with established researchers to help encourage their studies and interest in GIS. Prominent women in the field of GIScience were targeted to create videos for this series and were invited to participate by email. The following women agreed to participate and created videos (Dr. Sarah Elwood, Dr. Suzana Dragicevic, Dr. May Yuan, Dr. Emily Talen, Dr. Risa Palm, and Dr. Karen Kemp). 
