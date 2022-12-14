@@ -16,7 +16,7 @@ This project was presented at a virtual event at AAG 2020, where we played each 
 https://goldencompassworkshop.github.io/organizers/
 Add more on this here
 
-### The Grad WINGS
+### Grad WINGS (Women+ in Geospatial Science) Workshop
 https://sites.google.com/umass.edu/gradwings/home
 Add more on this here
 
