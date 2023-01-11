@@ -13,8 +13,9 @@ Funded by Carolyn Merry mini-grants, TRELIS fellows have built-upon and expanded
 This project was presented at a virtual event at AAG 2020, where we played each of the [six videos](https://www.youtube.com/playlist?list=PL2xUaCb8VRCAcTnrCrH67C1lnMxVq7gbr) and had time for discussion. Two speakers were present and other attendees could ask direct questions about their career path. The event was attended by 30 people.
 
 ### Golden Compass
-https://goldencompassworkshop.github.io/organizers/
-Add more on this here
+The [Golden Compass workshop](https://goldencompassworkshop.github.io) aimed to create a safe space for training and sharing experiences among foreign national women geospatial scientists and promote success in their career, leadership, and life in the US. 
+
+It was an in-person networking opportunity for women geospatial scientists who are foreign nationals and working in the US academic institutions. These women form a special group of scholars who are women of color, non-native English speakers (with English as their second language), and may lack the social, economic, and cultural capital needed to fully take advantage of their talent and maximize their career impacts. As qualified academic professionals, these women have rich subject matter expertise. The challenges they face in the workplace are related to their gender, cultural background, and social status in the U.S. Participants shared their unique experiences and challenges, as well as strategies for their success during a one-and-half day workshop in Denver, Colorado.
 
 ### Grad WINGS (Women+ in Geospatial Science) Workshop
 https://sites.google.com/umass.edu/gradwings/home
