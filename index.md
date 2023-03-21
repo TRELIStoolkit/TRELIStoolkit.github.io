@@ -8,29 +8,20 @@ TRELIS (which stands for Training and Retaining Leaders in STEM) was a program f
 
 ![TRELIS_Group](assets/images/ALL_TRELIS.JPG)
 
-Want to run your own meeting, workshop, or work through the TRELIS materials on your own? Below is a sample schedule of a 3-day workshop as well as examples of how the TRELIS curriculum have been adapted, expanded, and used.
+Want to run your own meeting, workshop, or work through the TRELIS materials on your own? Below is a sample schedule of a 2-day workshop as well as examples of how the TRELIS curriculum have been adapted, expanded, and used.
 
 ## Day by Day Workshop Schedule
 
 ###### Day One
 
-| head1        | head two          | three |
+| Time         | Session & Activities         | Resources  |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good oreos        | hmm   |
+| 7:30am       | Breakfast available |   |
+| 8:30am       | Welcome, Introduction & Orientation   | TBD  |
+| 10:00am      | Break       |   |
 | ok           | good zoute drop   | yumm  |
 
 ###### Day Two
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good oreos        | hmm   |
-| ok           | good zoute drop   | yumm  |
-
-###### Day Three
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
