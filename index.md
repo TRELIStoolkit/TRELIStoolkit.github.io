@@ -8,24 +8,39 @@ TRELIS (which stands for Training and Retaining Leaders in STEM) was a program f
 
 ![TRELIS_Group](assets/images/ALL_TRELIS.JPG)
 
-Want to run your own meeting, workshop, or work through the TRELIS materials on your own? Below is a sample schedule of a 2-day workshop as well as examples of how the TRELIS curriculum have been adapted, expanded, and used.
+Want to run your own meeting, workshop, or work through the TRELIS materials on your own? Below is a sample schedule of a 2-day workshop. The "PROJECTS" page includes examples of how the TRELIS curriculum have been adapted, expanded, and used.
 
 ## Day by Day Workshop Schedule
 
-###### Day One
+##### Day One
 
 | Time         | Session & Activities         | Resources  |
 |:-------------|:------------------|:------|
 | 7:30am       | Breakfast available |   |
 | 8:30am       | Welcome, Introduction & Orientation   | TBD  |
 | 10:00am      | Break       |   |
-| ok           | good zoute drop   | yumm  |
+| 10:30am      | Session 1: Communication and Language   | TBD  |
+| 12:00pm      | Lunch and Walk Break       |   |
+| 1:30pm       | Session 2: Career Trajectories   | TBD  |
+| 2:50pm       | Break  |  |
+| 3:00pm       | Session 3: Obstacles & Solutions (Part 1)  | TBD  |
+| 4:30pm       | Compilation of Parking Lot (or Bike Rack) Topics   | TBD  |
+| 5:00pm       | Free Time  |   |
+| 6:30pm       | Dinner   |   |
 
-###### Day Two
+##### Day Two
 
-| head1        | head two          | three |
+
+| Time         | Session & Activities         | Resources  |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good oreos        | hmm   |
-| ok           | good zoute drop   | yumm  |
+| 7:30am       | Breakfast available |   |
+| 8:30am       | Greetings & Debrief  |   |
+| 9:00am       | Session 3: Obstacles & Solutions (Part 2)       | TBD  |
+| 10:00am      | Break  |   |
+| 10:30am      | Session 4: Work-Life Integration   | TBD  |
+| 12:00pm      | Lunch and Walk Break       |   |
+| 1:30pm       | Session 5: Mentoring and Coaching  | TBD  |
+| 2:30pm       | Review & Responses to Parking Lot Topics  | TBD  |
+| 3:50pm       | Break  |  |
+| 5:00pm       | Free Time  |   |
+| 7:00pm       | Dinner   |   |
