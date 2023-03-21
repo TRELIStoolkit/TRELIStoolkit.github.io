@@ -12,7 +12,7 @@ Want to run your own meeting, workshop, or work through the TRELIS materials on 
 
 ## Day by Day Workshop Schedule
 
-##### Day One
+### Day One
 
 | Time         | Session & Activities         | Resources  |
 |:-------------|:------------------|:------|
@@ -28,7 +28,7 @@ Want to run your own meeting, workshop, or work through the TRELIS materials on 
 | 5:00pm       | Free Time  |   |
 | 6:30pm       | Dinner   |   |
 
-##### Day Two
+### Day Two
 
 
 | Time         | Session & Activities         | Resources  |
