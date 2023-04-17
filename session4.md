@@ -1,0 +1,80 @@
+# Session 4: Work-Life Integration
+
+## Overview/Summary
+This session will consist of a series of whole and small-group discussions related to creating a combination of work and life that is healthy for you. Notably, the word “balance” as is typically used in discussions of “work-life balance” was purposely excluded by the creators of this session to push back against the idea that balance is something that can always be achieved. 
+
+#### Note: Materials for this session were originally collated and presented by Karen Kemp and Diana Sinton.
+
+## Learning Outcomes
+At the end of this session, participants will be able to… 
+* Acknowledge challenges and opportunities for a balanced and healthy work-life
+* Identify personal priorities for a balanced and healthy work-life
+* Discover resources and alternative arrangements available at her institution aimed at supporting work-life balance, and feel empowered to ask for them
+* Identify and articulate the types of responses and solutions that are best aligned with their particular situations
+* Set one work-life balance goal for something she would like to change (improve, do differently), know what support or resources will help make that happen, and create an associated timeline for reaching that goal
+
+## Materials Needed
+In this session, you will need the following materials:
+* A Google Doc, large sticky pad, or pen and paper to record notes from group discussion
+* Work-Life Integration slides [hyperlink to slides]
+
+## Pre-Workshop Tasks
+Before this session, watch the video and read the articles listed below. Reflecting on the associated questions that will inform our discussions and activities. 
+
+### Video
+* Work-Life Balance, The School of Life (link to video, 3 minutes)
+
+__Question__: Why do you think we too often resist the idea of “imperfect variety”?
+
+### Articles
+* Bartlett MJ, Arslan FN, Bankston A, Sarabipour S (2021) Ten simple rules to improve academic work–life balance. PLoS Comput Biol 17(7): e1009124. https://doi.org/10.1371/journal. Pcbi.1009124. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8282063/pdf/pcbi.1009124.pdf 
+
+__Questions__: People have suggested that Rule #1 may be the most important to master, because it may allow all of the others to be possible. What do you think about that premise? How is “time” best managed by you in your situations?
+
+* McClure, William (2022). Don't Blame the Pandemic for Worker Discontent   (plus, link to non-Chronicle article copy). This is a related piece too. 
+
+__Questions__: Negative and difficult work environments can have deleterious effects on all other aspects of your life. How are things going on your campus? In your department?  
+
+
+## Session Activities
+#### 1. Questioning Our Thoughts and Beliefs (15 minutes). 
+
+This brief exercise will model what it means to question a thought or belief. Diana reviews one statement whose “veracity” and emotional effects we will discuss. We will introduce the notion of considering the statement’s “turnaround” or reversal (ala Byron Katie), and discuss how thoughts and expectations affect our emotions. 
+
+*"My sister is planning a big gathering for when my parents have their 40th wedding anniversary but it’s scheduled for the 2nd week of the semester and I can’t cancel classes to travel and attend."  
+
+#### 2. Small group discussions on 1) kincare; 2) work productivity; 3) personal well-being/self-care. (45 minutes, 4-5 people per table, switch tables at 20 minutes.)  
+
+For each topic, discussion should consider these influences:
+* The power of expectations.
+* How communication issues about expectations and boundaries contribute to commitment conflicts and time management challenges. 
+* Possible strategies for successful integration.
+Groups will split into different physical spaces based on interest. Each group will have its own Google Doc and one leader/table will take notes for the group. These notes will be cleaned up / summarized and available for review/sharing to the whole group afterwards.  
+
+#### 3. Whole Group Wrap Up (20 minutes).
+Each participant shares (verbally, 1 minute) a single key work-life issue that they want to work on in the coming year. No need to have the strategies identified, only the issue itself.
+
+## Additional Resources
+
+1. Owens, J., Kottwitz, C., and Ramirez, J. (2018). Strategies to Attain Faculty Work-Life Balance. Building Healthy Academic Communities Journal, 2(2). https://library.osu.edu/ojs/index.php/BHAC/article/view/6544 
+2. James Clear, The Downside of Work-Life Balance (The Four Burners Theory). https://getpocket.com/explore/item/the-downside-of-work-life-balance
+3. “Finding your own Work-Life Balance” – this entry from Drexel University stresses that there is no silver bullet, what works for one may not work for another and to find what works for you
+4. Nagpal, Radhika (2013).  The Awesomest 7-Year Postdoc or: "How I Learned To Stop Worrying and Love the Tenure Track Faculty Life" [pdf] - from Scientific American
+5. "Balancing Your Career & Personal Life" [pdf] - from NSF Distinguished Teaching Scholars
+6. "How To Learn To Say No" - from Time 
+"Managing Your Work, Managing Your Life" [pdf] - from the Harvard Business Review
+Anne-Marie Slaughter, “Why Women Still Can’t Have it All.” https://www.theatlantic.com/magazine/archive/2012/07/why-women-still-cant-have-it-all/309020/
+Lina Wyas, Jan 2022 - “New normal” at work in a post-COVID world: work–life balance and labor markets | Policy and Society | Oxford Academic - a journal article with substantial evidence and conclusions, good summary graphics.
+March 2022, European perspective - Implementing the work-life balance directive in times of COVID-19: new prospects for post-pandemic workplaces in the European Union? | SpringerLink - interesting because it discusses the EU directive on work-life balance, adopted in 2019 (pre-covid) and with implementation deadline in August 2022 (“post”-covid). WLB is officially recognized in Europe!  ”The adoption of the Work-life Balance Directive in 2019 is a paramount achievement in this sense, marking an important step for gender equality and the right of workers with care obligations in the EU.”
+Sabrina D’Andrea, March 2022, European perspective - Implementing the work-life balance directive in times of COVID-19: new prospects for post-pandemic workplaces in the European Union? | SpringerLink - interesting because it discusses the EU directive on work-life balance, adopted in 2019 (pre-covid) and with implementation deadline in August 2022 (“post”-covid). WLB is officially recognized in Europe!  ”The adoption of the Work-life Balance Directive in 2019 is a paramount achievement in this sense, marking an important step for gender equality and the right of workers with care obligations in the EU.”
+Strategies to Attain Faculty Work-Life Balance, https://library.osu.edu/ojs/index.php/BHAC/article/view/6544. https://doi.org/10.18061/bhac.v2i2.6544 -  An integrated review of the literature on life balance of academic faculty in all disciplines using multiple online databases with strategies to help achieve it.
+Bartlett MJ, Arslan FN, Bankston A, Sarabipour S (2021) Ten simple rules to improve academic work–life balance. PLoS Comput Biol 17(7): e1009124. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8282063/pdf/pcbi.1009124.pdf 
+“Finding your own Work-Life Balance” – this entry from Drexel University stresses that there is no silver bullet, what works for one may not work for another and to find what works for you
+“The Superwoman Fallacy: What it really takes to be an academic and a parent” – from The Guardian, 2012.
+The CSWA has compiled resources on the problems faced and solved by two-career couples in astronomy and other fields of science
+"Managing Your Work, Managing Your Life" [pdf] - from the Harvard Business Review
+"The Six Steps To Delegation" [pdf] - from Enriching Leadership International
+"How To Learn To Say No" - from Time 
+"Delegating Responsibility" [pdf] - from the University of Oregon
+"Balancing Your Career & Personal Life" [pdf] - from NSF Distinguished Teaching Scholars
+"How I Learned To Stop Worrying and Love the Tenure Track Faculty Life" [pdf] - from Scientific American
