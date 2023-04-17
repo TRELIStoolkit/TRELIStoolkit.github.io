@@ -17,9 +17,9 @@ Want to run your own meeting, workshop, or work through the TRELIS materials on 
 | Time         | Session & Activities         | Resources  |
 |:-------------|:------------------|:------|
 | 7:30am       | Breakfast available |   |
-| 8:30am       | Welcome, Introduction & Orientation   | TBD  |
+| 8:30am       | Welcome, Introduction & Orientation   |   |
 | 10:00am      | Break       |   |
-| 10:30am      | Session 1: Communication and Language   | TBD  |
+| 10:30am      | Session 1: Communication and Language   | ![Summary](https://mstuhlmacher.github.io/TRELIStoolkit/session1) |
 | 12:00pm      | Lunch and Walk Break       |   |
 | 1:30pm       | Session 2: Career Trajectories   | TBD  |
 | 2:50pm       | Break  |  |
