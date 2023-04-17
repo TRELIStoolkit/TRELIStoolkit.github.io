@@ -1,7 +1,9 @@
-### Session 3: Obstacles and Solutions
+# Session 3: Obstacles and Solutions
 
 ## Overview/Summary
 This session will consist of a series of whole and small-group discussions and role playing scenarios related to obstacles, conflicts and solutions. While conflict can be challenging, well managed conflict leads to richer professional and personal relationships. The key to managing conflict is learning how to maximize “concern for self” and “concern for other.” Falling short on either of these dimensions reduces the potential benefit of the conflict at hand. The figure below demonstrates the result of shortcomings on either spectrum, with “collaborating” being the ideal outcome. 
+
+<img src= "https://mstuhlmacher.github.io/TRELIStoolkit/assets/images/Session3Overview.PNG">
 
 #### Notes: Materials for this session were originally collated and presented by Babs Buttenfield and Laxmi Ramasubramanian
 
@@ -25,7 +27,8 @@ Before this session, please complete the following survey, read the following ar
 * Article and exercise: [Conflict and Interpersonal Communication](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S3_Reading.pdf) 
   
 ## Session Activities
-### 1. Lecture and Review of Survey Results
+### 1. Lecture and Review of Survey Results.
+Adapt [lecture slides and summarized survey results](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S3_Slides.pdf) to the results of your workshop participants.
 
 ### 2. Self Reflection. 
 Reflect on some conflict in your work experience and how you managed it. What strategies were used by you? By Others? Which ones did or did not lead to a solution?
