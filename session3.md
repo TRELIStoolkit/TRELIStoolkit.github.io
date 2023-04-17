@@ -17,17 +17,20 @@ At the end of this session, participants will be able to…
 In this session, you will need the following materials:
 * Paper
 * Pens
+* [Lecture slides and summarized survey results](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S3_Slides.pdf)
 
 ## Pre-Workshop Tasks
 Before this session, please complete the following survey, read the following article and complete the exercises at the end of the article
-* Survey: Conflict Management Styles Assessment
-* Article and exercise: Conflict and Interpersonal Communication
+* Survey: [Conflict Management Styles Assessment](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S3_Survey.pdf) (create workshop-specific survey based on these questions) 
+* Article and exercise: [Conflict and Interpersonal Communication](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S3_Reading.pdf) 
   
 ## Session Activities
-### 1. Self Reflection. 
+### 1. Lecture and Review of Survey Results
+
+### 2. Self Reflection. 
 Reflect on some conflict in your work experience and how you managed it. What strategies were used by you? By Others? Which ones did or did not lead to a solution?
 
-### 2. Role Playing Scenario: Athletic vs Academic Priorities. 
+### 3. Role Playing Scenario: Athletic vs Academic Priorities. 
 Break out into groups of 6 people (4 participants, 1 TRELIS leader, and 1 note taker). 
 1. Scenario: A student athlete is missing class and falling behind on assignments. The professor has talked with the student, who is sincerely worried about their class performance. The professor sets up a meeting with the Athletic Department to discuss how to address the issue and help the student to catch up, miss fewer classes, and possibly to get some tutoring.
 2. Roles:
