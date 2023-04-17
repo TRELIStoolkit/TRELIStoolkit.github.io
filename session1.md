@@ -5,20 +5,20 @@ This session will consist of a series of whole and small-group discussions relat
 
 The first requirement in building effective communication skills is self-awareness. Self-awareness means being aware of how you currently communicate, recognizing and identifying gaps in your communication, and how to improve your communication skills. The second step is practicing useful techniques and reflecting on how you practice your skills by seeking and receiving feedback from trusted others (such as peers, students, or direct reports). The overarching goal of this session is to build awareness and begin to practice some skills.
 
-Notes: Materials for this session were originally collated and presented by Elizabeth Wentz
+#### Notes: Materials for this session were originally collated and presented by Elizabeth Wentz
 
 ## Learning Outcomes
 At the end of this session, participants will be able to… 
-Recognize the ways in which words and grammar can weaken effective communication.
-Practice and articulate clearly the values of active listening
-Apply a leadership mindset to the term “power”
+* Recognize the ways in which words and grammar can weaken effective communication.
+* Practice and articulate clearly the values of active listening
+* Apply a leadership mindset to the term “power”
 
 ## Materials Needed
 In this session, you will need the following materials:
-Index cards
-Pens
-White Board
-Weak Language Exercise Document
+* Index cards
+* Pens
+* White Board
+* Weak Language Exercise Document
 
 ## Pre-Workshop Tasks
 This session has no pre-workshop tasks. 
@@ -37,39 +37,38 @@ This concept of dualities applies here because powerful language does not come w
 
 In this activity, we are going to develop our powerful language skills in smaller groups with a designated leader. 
 
-First, the leader will speak about the power of speaking up and being heard. (5 minutes). Main Points to cover:
-Speaking up is a learned (acquired/acquirable) skill.
-Understanding the barriers is key to overcoming them
-Weak Language is one issue we will address in this break out group
-1.  The use of I
-2.  The use of filler phrases and “hedges” in sentences 
+First, the leader will speak about the power of speaking up and being heard. (5 minutes). Main points to cover:
+* Speaking up is a learned (acquired/acquirable) skill. Understanding the barriers is key to overcoming them
+* Weak Language is one issue we will address in this break out group
+  1.  The use of I
+  2.  The use of filler phrases and “hedges” in sentences 
 
 Next, In pairs or trios, participants will complete the written activity to identify and revise weak language. (15 minutes) 
 
-Lastly, participants will return to the group and share experiences (20 minutes)
-Themes:  
-Identify an instance when participants have felt weak because of language.  What happened?  Examples - being interrupted; “mansplaining”; taking credit for ideas; etc.   
-The group will collectively reflect on how use of powerful language could influence these situations.
+Lastly, participants will return to the group and share experiences (20 minutes). Themes to touch on:  
+* Identify an instance when participants have felt weak because of language.  What happened?  Examples - being interrupted; “mansplaining”; taking credit for ideas; etc.   
+* The group will collectively reflect on how use of powerful language could influence these situations.
 
 ### 3. Leadership and Power
 
-Main Points to cover:
-Why one should not reject the idea that leadership comes with power.
-Power - over (dynamic)
-Power - to (dynamic)
-Power to implement comes with acquiring skills related to priority setting.
+Main points to cover:
+* Why one should not reject the idea that leadership comes with power.
+* Power - over (dynamic)
+* Power - to (dynamic)
+* Power to implement comes with acquiring skills related to priority setting.
 
 Individual Activity: Priority Setting. Identify activities from individual to-do lists that can fall into these categories (5 minutes)
 
-Needs to be finished right away by me
-Needs to be finished by me, but it can wait
-Needs to be delegated
-Need to decline; let someone else take the lead
+|Matrix for Decision Making:         |     |
+|:-------------|:------------------|
+| Needs to be finished right away by me         | Needs to be finished by me, but it can wait       |
+| Needs to be delegated                         | Need to decline; let someone else take the lead |  
 
 
 ### 4. Take Away Summary - (20 minutes). 
 Close the break as a group. Do a round robin where each person contributes observations on tips for active listening and have the leader write them down on the white-board. Some starting points:
-Pay attention by looking directly at the person speaking – use body language to listen
-Provide feedback – ask questions and summarize what the person says periodically
-Avoid interrupting – unless asking for clarification; don’t distract with counter conversations
+* Pay attention by looking directly at the person speaking – use body language to listen
+* Provide feedback – ask questions and summarize what the person says periodically
+* Avoid interrupting – unless asking for clarification; don’t distract with counter conversations
+
 Ask participants to write down and then volunteer to share experiences in this session. Think about what ideas/experiences were new. Which one will you take away and try right away?
