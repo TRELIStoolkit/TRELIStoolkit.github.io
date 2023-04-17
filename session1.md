@@ -18,7 +18,7 @@ In this session, you will need the following materials:
 * Index cards
 * Pens
 * White Board
-* Weak Language Exercise Document
+* [Weak Language Exercise Document](https://github.com/MStuhlmacher/TRELIStoolkit/blob/main/assets/documents/WeakLanguage.pdf)
 
 ## Pre-Workshop Tasks
 This session has no pre-workshop tasks. 
@@ -33,6 +33,9 @@ This is a way you can strengthen your inner voice. Too often the negative inner 
 
 ### 2. Language, the use and misuse of “ I “ (40 min) 
 Next we are going to learn about how to strengthen your external voice through the power of language. Building on the work by Phyllis Mindell, we are going to focus on why the use of “I” weakens language. She refers to Janus, the Roman god of beginnings and endings. Just like our internal voice, Janus is often portrayed with two faces – looking at the past and into the future. He is birth/death, buying/selling, war/peace, gates/portals. The god of dualities or paradoxes. 
+
+<img src="https://github.com/MStuhlmacher/TRELIStoolkit/blob/main/assets/images/JanusRomanGod.jpg" width = 25% height = 25%>
+
 This concept of dualities applies here because powerful language does not come with simple solutions. This exercise starts with some basic ones that will sharpen your skills in using powerful language in emails, cover letters, recommendation letters, in small and large meetings where you have a planned presentation or where you are speaking 
 
 In this activity, we are going to develop our powerful language skills in smaller groups with a designated leader. 
@@ -43,7 +46,7 @@ First, the leader will speak about the power of speaking up and being heard. (5 
   1.  The use of I
   2.  The use of filler phrases and “hedges” in sentences 
 
-Next, In pairs or trios, participants will complete the written activity to identify and revise weak language. (15 minutes) 
+Next, In pairs or trios, participants will complete the Weak Langauge Exercise to identify and revise weak language. (15 minutes) 
 
 Lastly, participants will return to the group and share experiences (20 minutes). Themes to touch on:  
 * Identify an instance when participants have felt weak because of language.  What happened?  Examples - being interrupted; “mansplaining”; taking credit for ideas; etc.   
