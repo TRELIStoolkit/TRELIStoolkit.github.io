@@ -6,4 +6,4 @@ theme: jekyll-theme-slate
 
 header_pages:
  #- index.md
- - another-page.md
+ - projects.md
