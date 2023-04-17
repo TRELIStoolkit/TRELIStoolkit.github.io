@@ -34,7 +34,7 @@ This is a way you can strengthen your inner voice. Too often the negative inner 
 ### 2. Language, the use and misuse of “ I “ (40 min) 
 Next we are going to learn about how to strengthen your external voice through the power of language. Building on the work by Phyllis Mindell, we are going to focus on why the use of “I” weakens language. She refers to Janus, the Roman god of beginnings and endings. Just like our internal voice, Janus is often portrayed with two faces – looking at the past and into the future. He is birth/death, buying/selling, war/peace, gates/portals. The god of dualities or paradoxes. 
 
-<img src= "https://mstuhlmacher.github.io/TRELIStoolkit/assets/images/JanusRomanGod.jpg" width = 25% height = 25%>
+<img src= "https://mstuhlmacher.github.io/TRELIStoolkit/assets/images/JanusRomanGod.jpg" width = "25%" height = "25%">
 
 This concept of dualities applies here because powerful language does not come with simple solutions. This exercise starts with some basic ones that will sharpen your skills in using powerful language in emails, cover letters, recommendation letters, in small and large meetings where you have a planned presentation or where you are speaking 
 
