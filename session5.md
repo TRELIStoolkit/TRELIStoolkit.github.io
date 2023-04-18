@@ -15,8 +15,8 @@ At the end of this session, participants will be able to…
 
 ## Materials Needed
 In this session, you will need the following materials:
-* Mentoring and Coaching Slides
-* My Mentoring Map
+* [Mentoring and Coaching Slides](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S5_Slides.pdf)
+* [Mentoring Map Worksheet](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S5_MentorMap.pdf)
 * Paper
 * Pens
 
@@ -34,10 +34,10 @@ If you can’t find anything on your campus, then check out the following:
 
 ## Session Activities
 #### 1. Presentation on building a mentoring network through the use of the mentoring map. (30 minutes)
-* TRELIS Mentoring and Coaching Presentation, 2021
+* [Mentoring and Coaching Presentation](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S5_Slides.pdf)
 #### 2. Fill out a mentoring map with discussion in breakout groups (20 minutes)
 * The presentation in the first activity provides guidance on this task
-* My Mentoring Map
+* Fill out [mentoring map worksheet](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S5_MentorMap.pdf) individually
 * Identify potential gaps in mentoring network
 #### 3. Set mentoring connection goals. Together, each participant states one key mentoring connection she will make in the coming year (10 minutes)
 
