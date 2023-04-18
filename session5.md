@@ -35,10 +35,12 @@ If you can’t find anything on your campus, then check out the following:
 ## Session Activities
 #### 1. Presentation on building a mentoring network through the use of the mentoring map. (30 minutes)
 * [Mentoring and Coaching Presentation](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S5_Slides.pdf)
+
 #### 2. Fill out a mentoring map with discussion in breakout groups (20 minutes)
 * The presentation in the first activity provides guidance on this task
 * Fill out [mentoring map worksheet](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S5_MentorMap.pdf) individually
 * Identify potential gaps in mentoring network
+
 #### 3. Set mentoring connection goals. Together, each participant states one key mentoring connection she will make in the coming year (10 minutes)
 
 ## Additional Resources
