@@ -1,7 +1,7 @@
 # Session 2: Career Trajectories
 
 ## Overview/Summary
-This session will consist of a panel of leaders on their different career paths. The key message behind the TRELIS workshops is that careers are not (and do not need to be) the ladders they are often portrayed to be. Progression throughout a career may instead be depicted as a trellis, less linear with broader ranges in the movement between jobs. Panelists will answer a set of starter questions (see below) with time reserved for participant-driven questions and conversation.
+This session will consist of a panel of leaders on their different career paths. The key message behind the TRELIS workshops is that careers are not (and do not need to be) the ladders they are often portrayed as. Progression throughout a career may instead be depicted as a trellis, less linear with broader ranges in the movement between jobs and opportunities. Panelists will answer a set of starter questions (see below) with time reserved for participant-driven questions and conversation.
 
 #### Notes: Materials for this session were originally collated and presented by Kate Beard-Tisdale and Sarah Battersby.
 
