@@ -36,7 +36,7 @@ Next we are going to learn about how to strengthen your external voice through t
 
 <img src= "https://mstuhlmacher.github.io/TRELIStoolkit/assets/images/JanusRomanGod.jpg" width = "50%" height = "50%">
 
-This concept of dualities applies here because powerful language does not come with simple solutions. This exercise starts with some basic ones that will sharpen your skills in using powerful language in emails, cover letters, recommendation letters, in small and large meetings where you have a planned presentation or where you are speaking 
+This concept of dualities applies here because powerful language does not come with simple solutions. This exercise starts with some basic ones that will sharpen your skills in using powerful language in emails, cover letters, recommendation letters, in small and large meetings where you have a planned presentation or where you are speaking.
 
 In this activity, we are going to develop our powerful language skills in smaller groups with a designated leader. 
 
