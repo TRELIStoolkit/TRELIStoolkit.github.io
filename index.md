@@ -21,7 +21,7 @@ Want to run your own meeting, workshop, or work through the TRELIS materials on 
 | 10:00am      | Break       |   |
 | 10:30am      | Session 1: Communication and Language   | <a href="https://mstuhlmacher.github.io/TRELIStoolkit/session1"> Overview & Materials </a> |
 | 12:00pm      | Lunch and Walk Break       |   |
-| 1:30pm       | Session 2: Career Trajectories   | TBD  |
+| 1:30pm       | Session 2: Career Trajectories   | <a href="https://mstuhlmacher.github.io/TRELIStoolkit/session2"> Overview & Materials </a> |
 | 2:50pm       | Break  |  |
 | 3:00pm       | Session 3: Obstacles & Solutions (Part 1)  | <a href="https://mstuhlmacher.github.io/TRELIStoolkit/session3"> Overview & Materials  </a>  |
 | 4:30pm       | Compilation of Parking Lot (or Bike Rack) Topics   | <a href="https://mstuhlmacher.github.io/TRELIStoolkit/parking-lot"> Overview & Materials  </a>  |
