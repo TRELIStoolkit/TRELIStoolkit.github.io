@@ -17,6 +17,9 @@ In this session, you will need the following materials:
 * A panel of leaders willing to candidly share their career progression and advise. Ideally, the leaders will have a mix of career paths (academia, industry, etc.)
 * A moderator
 
+## Pre-Workshop Tasks
+This session has no pre-workshop tasks. 
+
 ## Session Activity (Panel)
 The panel will begin with the moderator posing 3-4 starter questions to all of the panelists to get conversation going:  
 * What do you do? What is the short story on how you have ended up in this position?  Why do you like it?
