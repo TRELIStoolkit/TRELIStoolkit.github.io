@@ -17,7 +17,7 @@ In this session, you will need a space for people to write their ideas. This can
 
 ## Session Activities
 The parking lot is conducted in two parts:
-It is introduced on the first day along with creating the space that participants can put their notes. Throughout the workshop, participants add to their notes as well as tally marks next to the notes that resonate with them.
+It is introduced on the first day along with creating the space that participants can put their notes. Throughout the workshop, participants add to their notes as well as tally marks next to the notes written by others that resonate with them.
 
 On the last day, the organizers address the notes on the parking lot board and designate which organizer would be best suited to address the topics. This can be done by organizing the notes into themes or looking at the most upvoted topics.
 
