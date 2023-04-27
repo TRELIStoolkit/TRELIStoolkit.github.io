@@ -1,7 +1,7 @@
 # Session 3: Obstacles and Solutions
 
 ## Overview/Summary
-This session will consist of a series of whole and small-group discussions and role playing scenarios related to obstacles, conflicts and solutions. While conflict can be challenging, well managed conflict leads to richer professional and personal relationships. The key to managing conflict is learning how to maximize “concern for self” and “concern for other.” Falling short on either of these dimensions reduces the potential benefit of the conflict at hand. The figure below demonstrates the result of shortcomings on either spectrum, with “collaborating” being the ideal outcome. 
+This session will consist of a series of whole and small-group discussions and role playing scenarios related to obstacles, conflicts, and solutions. While conflict can be challenging, well managed conflict leads to richer professional and personal relationships. The key to managing conflict is learning how to maximize “concern for self” and “concern for other.” Falling short on either of these dimensions reduces the potential benefit of the conflict at hand. The figure below demonstrates the result of shortcomings on either spectrum, with “collaborating” being the ideal outcome. 
 
 <img src= "https://mstuhlmacher.github.io/TRELIStoolkit/assets/images/Session3Overview.PNG">
 
@@ -22,7 +22,7 @@ In this session, you will need the following materials:
 * [Lecture slides and summarized survey results](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S3_Slides.pdf)
 
 ## Pre-Workshop Tasks
-Before this session, please complete the following survey, read the following article and complete the exercises at the end of the article
+Before this session, please complete the following survey, read the following article and complete the exercises at the end of the article:
 * Survey: [Conflict Management Styles Assessment](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S3_Survey.pdf) (create workshop-specific survey based on these questions) 
 * Article and exercise: [Conflict and Interpersonal Communication](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S3_Reading.pdf) 
   
@@ -31,7 +31,7 @@ Before this session, please complete the following survey, read the following ar
 Adapt [lecture slides and summarized survey results](https://mstuhlmacher.github.io/TRELIStoolkit/assets/documents/S3_Slides.pdf) to the results of your workshop participants.
 
 ### 2. Self Reflection. 
-Reflect on some conflict in your work experience and how you managed it. What strategies were used by you? By Others? Which ones did or did not lead to a solution?
+Reflect on some conflict in your work experience and how you managed it. What strategies were used by you? By others? Which ones did or did not lead to a solution?
 
 ### 3. Role Playing Scenario: Athletic vs Academic Priorities. 
 Break out into groups of 6 people (4 participants, 1 TRELIS leader, and 1 note taker). 
