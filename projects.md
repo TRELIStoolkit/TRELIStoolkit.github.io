@@ -24,6 +24,6 @@ It was an in-person networking opportunity for women geospatial scientists who a
 
 ![Images from of the Grad WINGS cohort](assets/images/GradWINGS.PNG)
 
-A total of 11 women took part in the workshop virtually (January 2023) and in-person at the AAG in Denver, CO 2023. The particpants were at different points in their graduate studies and a mixture of first-generation students, BIPOC participants, and those born outside the United States; and sometimes a combination of all these. Together they formed a support network expanding the original TRELIS mission. This project was lead by Seda Salap-Ayca, Marcela Suarez, and Florencia Sangermano.
+A total of 11 women took part in the workshop virtually (January 2023) and in-person at the AAG in Denver, CO 2023. The particpants were at different points in their graduate studies and a mixture of first-generation students, BIPOC participants, and those born outside the United States; and sometimes a combination of all these. Together they formed a support network expanding the original TRELIS mission. This project was lead by Seda Şalap-Ayça, Marcela Suarez, and Florencia Sangermano.
 
 [back](./)
