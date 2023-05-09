@@ -24,6 +24,6 @@ The participants formed a special group of scholars who are women of color, non-
 
 ![Images from of the Grad WINGS cohort](assets/images/GradWINGS.PNG)
 
-A total of 11 women took part in the workshop virtually (January & April 2023) and in-person at the AAG in Denver, CO 2023. The particpants were at different points in their graduate studies and a mixture of first-generation students, BIPOC participants, and those born outside the United States; and sometimes a combination of all these. Together they formed a support network expanding the original TRELIS mission. This project was lead by Drs. Seda Şalap-Ayça, Marcela Suarez, and Florencia Sangermano.
+A total of 11 women took part in the workshop virtually (January & April 2023) and in-person at the AAG in Denver, CO 2023. The participants were at different points in their graduate studies and a mixture of first-generation students, BIPOC participants, and those born outside the United States; and sometimes a combination of all these. Together they formed a support network expanding the original TRELIS mission. This project was lead by Drs. Seda Şalap-Ayça, Marcela Suarez, and Florencia Sangermano.
 
 [back](./)
