@@ -24,6 +24,12 @@ The participants formed a special group of scholars who are women of color, non-
 
 ![Images from of the Grad WINGS cohort](assets/images/GradWINGS.PNG)
 
-A total of 11 women took part in the workshop virtually (January & April 2023) and in-person at the AAG in Denver, CO 2023. The participants were at different points in their graduate studies and a mixture of first-generation students, BIPOC participants, and those born outside the United States; and sometimes a combination of all these. Together they formed a support network expanding the original TRELIS mission. This project was lead by Drs. Seda Şalap-Ayça, Marcela Suarez, and Florencia Sangermano.
+A total of 11 women took part in the workshop virtually (January & April 2023) and in-person at the AAG in Denver, CO 2023. The participants were at different points in their graduate studies and a mixture of first-generation students, BIPOC participants, and those born outside the United States; and sometimes a combination of all these. Together they formed a support network expanding the original TRELIS mission. This project was led by Drs. Seda Şalap-Ayça, Marcela Suarez, and Florencia Sangermano.
+
+### Geospatial Science Leaders of Tomorrow
+
+The number of women in the geospatial industry are low (30%) and the numbers are even lower in leadership positions. In 2018 and 2019, Drs. Justine Blanford and Jane Read conducted [workshops](https://sites.google.com/g.syr.edu/trelis-psu-su/home) to identify challenges women currently face in our universities, and provide recommendations to retain women leaders in the geospatial sciences through active engagement and building of peer-mentorship networks within departments and also across the university and between universities. 
+
+The objectives of the workshops were to build a TRELIS network within and between PSU, SU, Cornell, SUNY-ESF, SUNY-Buffalo, and other regional institutions of higher education, by providing an opportunity for career coaching that will enable women to build a network of mentors and peers. The interactive workshops addressed themes discussed during the 2018 TRELIS workshop in Madison, WI, including: Work-Life Integration, Career Trajectories & Leadership, Mentoring & Coaching, Communication & Language, and Obstacles, Conflicts & Solutions. The workshops were designed to provide a ‘safe place’ to foster discussions and to bring together women faculty in the geospatial sciences from each institution.
 
 [back](./)
