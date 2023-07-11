@@ -46,7 +46,7 @@ Want to run your own meeting, workshop, or work through the TRELIS materials on 
 | 5:00pm       | Free Time  |   |
 | 7:00pm       | Dinner   |   |
 
-## Leadership:
+## Leadership
 The TRELIS leadership team includes:
 * Kate Beard-Tisdale, University of Maine (PI)
 * Laxmi Ramasubramanian, San Jose State University (co-PI)
